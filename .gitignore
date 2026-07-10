@@ -1,3 +1,9 @@
+#ignore all csvs
+*.csv
+
+#Secrets are added.
+secrets
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
